@@ -1,0 +1,790 @@
+{
+  "nav": {
+    "home": "Domov",
+    "about": "O nás",
+    "services": "Služby",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "getQuote": "Získať cenovú ponuku",
+    "homeCleaning": "Čistenie domácností",
+    "officeCleaning": "Čistenie kancelárií"
+  },
+  "common": {
+    "learnMore": "Zistiť viac",
+    "readMore": "Čítať ďalej",
+    "getStarted": "Začať teraz",
+    "contactUs": "Kontaktujte nás",
+    "viewAll": "Zobraziť všetky",
+    "bookNow": "Rezervovať teraz",
+    "submit": "Odoslať",
+    "loading": "Načítava sa..."
+  },
+  "hero": {
+    "badge": "Nová, mladá a energická spoločnosť",
+    "title": "Moderné čistenie",
+    "titleHighlight": "Pre váš priestor",
+    "subtitle": "Premeňte svoj domov alebo kanceláriu našimi profesionálnymi čistiacimi službami. Ekologické, spoľahlivé a dôkladné riešenia čistenia prispôsobené vašim potrebám.",
+    "cta": "Získať bezplatnú cenovú ponuku",
+    "watchVideo": "Pozrieť video",
+    "stats": {
+      "clients": {
+        "value": "100%",
+        "label": "Osobný prístup"
+      },
+      "experience": {
+        "value": "24/7",
+        "label": "Zákaznícka podpora"
+      },
+      "satisfaction": {
+        "value": "ECO",
+        "label": "Ekologické produkty"
+      }
+    },
+    "ecoFriendly": {
+      "title": "100% ekologické",
+      "subtitle": "Bezpečné produkty"
+    }
+  },
+  "statistics": {
+    "residential": {
+      "value": "100%",
+      "label": "Ekologické čistiace produkty"
+    },
+    "commercial": {
+      "value": "Profesionálni",
+      "label": "Profesionálni čističi"
+    },
+    "satisfaction": {
+      "value": "Flexibilné",
+      "label": "Plánovanie podľa vašich potrieb"
+    }
+  },
+  "services": {
+    "subtitle": "Naše služby",
+    "title": "Čo ponúkame",
+    "description": "Profesionálne čistiace riešenia navrhnuté na splnenie vašich špecifických potrieb, či už ide o bytové alebo komerčné čistenie.",
+    "startingAt": "Od",
+    "learnMore": "Dozvedieť sa viac",
+    "viewAll": "Zobraziť všetky služby",
+    "home": {
+      "title": "Čistenie domácností",
+      "shortDescription": "Udržujte svoj domov žiarivý pomocou našich profesionálnych čistiacich služieb",
+      "description": "Profesionálne čistiace služby pre domácnosti prispôsobené jedinečným potrebám vášho domova. Náš expertný tím zabezpečuje, že každý kút vášho domu žiari čistotou.",
+      "price": "50",
+      "features": {
+        "0": "Hĺbkové čistenie všetkých miestností",
+        "1": "Dezinfekcia kuchyne a kúpeľne",
+        "2": "Utieranie prachu a vysávanie"
+      }
+    },
+    "office": {
+      "title": "Čistenie kancelárií",
+      "shortDescription": "Profesionálne čistenie kancelárií pre produktívne pracovné prostredie",
+      "description": "Udržujte profesionálny a hygienický pracovný priestor našimi komplexnými riešeniami čistenia kancelárií. Pracujeme podľa vášho rozvrhu, aby sme minimalizovali prerušenie.",
+      "price": "99",
+      "features": {
+        "0": "Dezinfekcia pracovných priestorov",
+        "1": "Hĺbkové čistenie toaliet",
+        "2": "Starostlivosť a údržba podláh"
+      }
+    },
+    "cta": {
+      "title": "Potrebujete riešenie na mieru?",
+      "description": "Každý priestor je jedinečný. Kontaktujte nás pre personalizovanú cenovú ponuku prispôsobenú vašim špecifickým potrebám.",
+      "button": "Požiadať o cenovú ponuku na mieru"
+    }
+  },
+  "servicePages": {
+    "common": {
+      "rating": "5.0",
+      "perVisit": "/návšteva",
+      "popular": "Populárne",
+      "recommended": "Odporúčané",
+      "whatsIncluded": "Čo je zahrnuté",
+      "selectPlan": "Vybrať plán",
+      "contactSales": "Kontaktovať predaj"
+    },
+    "home": {
+      "reviews": "1 000+ recenzií",
+      "bookNow": "Rezervovať teraz",
+      "pricingTitle": "Transparentné ceny",
+      "pricingDescription": "Vyberte si plán, ktorý najlepšie vyhovuje vašim potrebám. Všetky plány zahŕňajú našu záruku spokojnosti.",
+      "pricingFeatures": {
+        "basic": {
+          "0": "Všetko štandardné čistenie"
+        },
+        "standard": {
+          "0": "Všetko štandardné čistenie",
+          "1": "Hĺbkové čistenie zahrnuté"
+        },
+        "premium": {
+          "0": "Všetko štandardné čistenie",
+          "1": "Hĺbkové čistenie zahrnuté",
+          "2": "Prioritné plánovanie",
+          "3": "Eco-prémiové produkty"
+        }
+      },
+      "cta": {
+        "title": "Pripravení na bezchybný domov?",
+        "description": "Rezervujte si službu čistenia domácností ešte dnes a zažite rozdiel Cleanify.",
+        "button": "Získať bezplatnú cenovú ponuku"
+      }
+    },
+    "office": {
+      "reviews": "800+ recenzií",
+      "getQuote": "Získať cenovú ponuku",
+      "featuresTitle": "Komplexné čistenie kancelárií",
+      "pricingTitle": "Flexibilné ceny pre firmy",
+      "pricingDescription": "Škálovateľné riešenia pre firmy všetkých veľkostí. K dispozícii zľavy pri väčších objemoch.",
+      "pricingFeatures": {
+        "basic": {
+          "0": "Profesionálny tím"
+        },
+        "standard": {
+          "0": "Profesionálny tím",
+          "1": "Flexibilné plánovanie"
+        },
+        "premium": {
+          "0": "Profesionálny tím",
+          "1": "Flexibilné plánovanie",
+          "2": "Služby mimo pracovnej doby",
+          "3": "Dedikovaný tím"
+        }
+      },
+      "benefitsTitle": "Prečo si firmy volia Cleanify",
+      "benefits": {
+        "0": "Minimálne narušenie vašich operácií",
+        "1": "Flexibilné plánovanie vrátane služieb mimo pracovnej doby",
+        "2": "Konzistentná kvalita s rovnakým tímom",
+        "3": "Ekologické produkty bezpečné pre zamestnancov",
+        "4": "Plne poistení a preveriení zamestnanci",
+        "5": "Prispôsobiteľné servisné plány"
+      },
+      "cta": {
+        "title": "Zvýšte produktivitu s čistým pracovným priestorom",
+        "description": "Požiadajte o bezplatnú konzultáciu a dovoľte nám vytvoriť čistiaci plán na mieru pre vašu firmu.",
+        "button": "Naplánovať konzultáciu"
+      }
+    }
+  },
+  "features": {
+    "subtitle": "Prečo si nás vybrať",
+    "title": "Čo nás robí odlišnými",
+    "description": "Kombinujeme profesionálnu odbornosť s ekologickými postupmi, aby sme poskytli výnimočné čistiace služby.",
+    "items": {
+      "team": {
+        "title": "Profesionálny tím",
+        "description": "Vyškolení čistiaci profesionáli s moderným prístupom a vysokými štandardmi"
+      },
+      "eco": {
+        "title": "Ekologické produkty",
+        "description": "Bezpečné, netoxické čistiace roztoky, ktoré chránia vašu rodinu a životné prostredie"
+      },
+      "schedule": {
+        "title": "Flexibilné plánovanie",
+        "description": "Rezervujte služby podľa vašich potrieb s jednoduchou online rezerváciou"
+      },
+      "guarantee": {
+        "title": "100% záruka spokojnosti",
+        "description": "Nie ste spokojní? Vyčistíme znova zadarmo alebo poskytneme plnú náhradu"
+      },
+      "insured": {
+        "title": "Poistené a viazané",
+        "description": "Plne poistené pre váš pokoj a ochranu majetku"
+      },
+      "pricing": {
+        "title": "Dostupné ceny",
+        "description": "Konkurenčné sadzby s transparentnými cenami a bez skrytých poplatkov"
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "Recenzie",
+    "title": "Čo hovoria naši klienti",
+    "description": "Nemusíte nám veriť len na slovo. Prečítajte si, čo hovoria naši spokojní zákazníci.",
+    "items": [
+      {
+        "name": "Sarah Johnson",
+        "role": "Majiteľka domu",
+        "content": "Cleanify premenil môj domov! Ich pozornosť detailom je výnimočná a tím je vždy profesionálny a zdvorilý. Vrelo odporúčam!"
+      },
+      {
+        "name": "Michael Chen",
+        "role": "Kancelársky manažér",
+        "company": "Tech Solutions Inc.",
+        "content": "Naša kancelária nikdy nevyzerala lepšie. Pracujú efektívne a nenarušujú náš pracovný tok. Skvelá služba!"
+      },
+      {
+        "name": "Emily Rodriguez",
+        "role": "Majiteľka malého podniku",
+        "content": "Profesionálni, spoľahliví a dôkladní. Ekologické produkty, ktoré používajú, sú obrovským plusom pre náš environmentálne uvedomelý podnik."
+      }
+    ]
+  },
+  "blog": {
+    "subtitle": "Najnovšie príspevky",
+    "title": "Tipy a novinky o čistení",
+    "description": "Zostaňte informovaní vďaka našim expertným radám, tipom na čistenie a poznatkom z odvetvia.",
+    "minRead": "min čítania",
+    "min": "min",
+    "readMore": "Čítať ďalej",
+    "viewAll": "Zobraziť všetky príspevky",
+    "listingPage": {
+      "title": "Tipy a poznatky o čistení",
+      "description": "Expertné rady, poznatky z odvetvia a užitočné tipy na udržanie vašich priestorov bezchybných.",
+      "categories": {
+        "all": "Všetko",
+        "tipsTricks": "Tipy a triky",
+        "officeCleaning": "Čistenie kancelárií",
+        "sustainability": "Udržateľnosť"
+      },
+      "noResults": "V tejto kategórii neboli nájdené žiadne príspevky.",
+      "newsletter": {
+        "title": "Zostaňte informovaní",
+        "description": "Dostávajte najnovšie tipy na čistenie, novinky z odvetvia a špeciálne ponuky priamo do vašej schránky.",
+        "placeholder": "Zadajte váš email",
+        "button": "Prihlásiť sa"
+      }
+    },
+    "postPage": {
+      "backToBlog": "Späť na blog",
+      "minRead": "min čítania",
+      "shareArticle": "Zdieľať tento článok:",
+      "sections": {
+        "keyTakeaways": "Kľúčové poznatky",
+        "bestPractices": "Osvedčené postupy",
+        "conclusion": "Záver"
+      },
+      "cta": {
+        "title": "Potrebujete profesionálne čistenie?",
+        "description": "Nechajte našich expertov postarať sa o čistenie, kým sa vy sústredíte na to, čo je dôležité.",
+        "button": "Získať bezplatnú ponuku"
+      },
+      "relatedArticles": "Súvisiace články"
+    },
+    "items": {
+      "0": {
+        "title": "Príručka na čistenie vášho domova ako profesionál",
+        "excerpt": "Naučte sa tajomstvá, ktoré používajú profesionálni čističi na dosiahnutie dokonalých výsledkov zakaždým.",
+        "category": "Tipy a triky",
+        "content": {
+          "intro": "Udržiavať domov čistý nemusí byť overwhelmujúce. Profesionálni čističi dodržiavajú systematické prístupy a používajú overené techniky, ktoré robia prácu jednoduchšou a efektívnejšou. Či už sa pripravujete na hostí alebo jednoducho udržiavate svoj životný priestor, tieto profesionálne stratégie vám pomôžu dosiahnuť výnimočné výsledky.",
+          "keyTakeaways": {
+            "text": "Profesionálne čistenie nie je len o tvrdšom drhnuti—je o inteligentnejšej práci. Tu sú základné princípy, ktoré oddeľujú profesionálne výsledky od amatérskych pokusov:",
+            "list": [
+              "Vždy čistite zhora nadol, aby ste sa vyhli opätovnému čisteniu nižších povrchov",
+              "Používajte správne čistiace produkty pre každý konkrétny povrch a materiál",
+              "Zavedite konzistentnú rutinu, ktorá predchádza hromadeniu nečistôt a mastnoty",
+              "Zamerajte sa najprv na frekventované oblasti a často dotýkané povrchy",
+              "Investujte do kvalitných nástrojov ako sú handričky z mikrovlákien a vysávače s HEPA filtrami"
+            ]
+          },
+          "bestPractices": {
+            "text1": "Začnite čistiace sedenie s jasným plánom. Prejdite každou miestnosťou a identifikujte oblasti, ktoré potrebujú najviac pozornosti. Zozbierajte všetky svoje potreby do košíka alebo vedra, aby ste sa vyhli zbytočnému behaniu sem a tam. Tento jednoduchý prípravný krok môže skrátiť váš čas čistenia o polovicu.",
+            "text2": "Profesionáli vždy používajú metódu dvoch vedier na umývanie podláh: jedno s čistiacim roztokom a jedno s čistou vodou na vyplachovanie. Toto zabraňuje rozširovaniu špinavej vody po podlahách. Pri povrchoch striekajte čističe na handričku namiesto priamo na povrch, aby ste predišli presakovaniu a šmuhám.",
+            "text3": "Nezabúdajte na často prehliadané oblasti: stropné ventilátory, líšty, vypínače svetiel, kľučky dverí a vrchy skríň. Tieto miesta zhromažďujú prach a baktérie, ale často sú ignorované pri bežnom čistení. Nastavte si rozvrh na riešenie týchto oblastí mesačne."
+          },
+          "conclusion": "Začlenením týchto profesionálnych techník do vašej čistiacej rutiny nielen dosiahnete lepšie výsledky, ale aj ušetríte čas a energiu. Pamätajte, konzistentnosť je kľúčová—trochu každodennej údržby predchádza potrebe vyčerpávajúcich hĺbkových čistení. Začnite implementovať tieto stratégie dnes a premeňte svoj domov na dokonale čisté útočisko."
+        }
+      },
+      "1": {
+        "title": "Najlepšie tipy na čistenie vašej kancelárie",
+        "excerpt": "Vytvorte produktívnejšie pracovné prostredie pomocou týchto základných tipov na čistenie kancelárií.",
+        "category": "Čistenie kancelárií",
+        "content": {
+          "intro": "Čistá kancelária nie je len o vzhľade—priamo ovplyvňuje produktivitu, zdravie zamestnancov a profesionálny imidž. Štúdie ukazujú, že pracovníci v čistom prostredí sú viac sústredení a berú si menej chorôb. Či už spravujete malý startup alebo veľkú korporátnu kanceláriu, tieto overené čistiace stratégie vám pomôžu vytvoriť zdravší a produktívnejší pracovný priestor.",
+          "keyTakeaways": {
+            "text": "Čistenie kancelárie vyžaduje iný prístup ako čistenie domácností kvôli zdieľaným priestorom, vysokej premávke a profesionálnemu vybaveniu. Tu je, čo potrebujete vedieť:",
+            "list": [
+              "Dezinfikujte často dotýkané povrchy ako kľučky dverí, telefóny a klávesnice denne",
+              "Zavedite jasné pravidlá čistoty stolov pre efektívnejšie čistenie",
+              "Používajte HEPA filtre vo vysávačoch pre zlepšenie kvality vzduchu a zníženie alergénov",
+              "Plánujte hĺbkové čistenie mimo pracovných hodín, aby ste nenarušili pracovný tok",
+              "Vytvorte určené čistiace zóny a systematicky ich striedajte"
+            ]
+          },
+          "bestPractices": {
+            "text1": "Implementujte dennú rutinu čistenia stolov. Povzbuďte zamestnancov, aby si utierali svoje pracovné stanice na konci každého dňa pomocou poskytnutých dezinfekčných utierok. Tento jednoduchý zvyk dramaticky znižuje šírenie baktérií a vytvára čerstvý štart každé ráno. Poskytnite ľahko dostupné čistiace potreby v každom oddelení.",
+            "text2": "Miestnosti na prestávky a kuchynky vyžadujú osobitnú pozornosť, pretože sú liahňami baktérií. Čistite kávovary a mikrovlnky týždenne, dezinfikujte chladničky mesačne a stanovte jasné pravidlá pre skladovanie a likvidáciu jedla. Vyprázdňujte koše denne a používajte vložky na predchádzanie zápachu a únikov.",
+            "text3": "Nezanedbávajte kvalitu vzduchu v kancelárii. Pravidelne vymieňajte filtre klimatizácie, otvárajte okná keď je to možné a zvážte pridanie rastlín čistiacich vzduch. Čistite vetracie otvory štvrťročne a plánujte profesionálne čistenie potrubí ročne. Dobrá kvalita vzduchu znižuje chorobnosť a zlepšuje koncentráciu."
+          },
+          "conclusion": "Udržiavanie čistej kancelárie je investícia do zdravia a produktivity vášho tímu. Zavedením konzistentných čistiacich protokolov a zapojením zamestnancov do udržiavania čistoty vytvárate profesionálne prostredie, kde každý môže prosperovať. Zvážte partnerstvo s profesionálnymi čistiacimi službami pre úlohy hĺbkového čistenia, zatiaľ čo udržiavate dennú čistotu pomocou týchto postupov."
+        }
+      },
+      "2": {
+        "title": "Ekologické čistenie: Lepšie pre vás a planétu",
+        "excerpt": "Zistite, ako zelené čistiace produkty prospievajú vášmu zdraviu a životnému prostrediu.",
+        "category": "Udržateľnosť",
+        "content": {
+          "intro": "Tradičné čistiace produkty často obsahujú drsné chemikálie, ktoré môžu poškodiť vaše zdravie aj životné prostredie. Od dráždidiel dýchacích ciest po znečisťovatele vody, tieto konvenčné čističe prichádzajú so skrytými nákladmi. Dobrou správou? Ekologické čistiace riešenia sú rovnako účinné a pritom bezpečnejšie pre vašu rodinu, domáce zvieratá a planétu. Poďme preskúmať, ako môžete prejsť na zelené čistenie.",
+          "keyTakeaways": {
+            "text": "Ekologické čistenie nie je o kompromisoch v čistote—je o výbere inteligentnejších, bezpečnejších riešení. Pochopenie týchto princípov vás povedie na vašej ceste zeleného čistenia:",
+            "list": [
+              "Hľadajte produkty s rastlinnými zložkami a biologicky rozložiteľnými formulami",
+              "Vyhýbajte sa čističom obsahujúcim fosfáty, chlór a umelé vône",
+              "Používajte opakovane použiteľné handričky z mikrovlákien namiesto jednorazových papierových utierok",
+              "Vytvárajte vlastné čističe s jednoduchými ingredienciami ako ocot a sóda bikarbóna",
+              "Vyberte si koncentrované produkty na zníženie odpadu z obalov a emisií z prepravy"
+            ]
+          },
+          "bestPractices": {
+            "text1": "Začnite nahradením najčastejšie používaných čističov ekologickými alternatívami. Univerzálne čističe, prostriedok na riad a prací gél sú skvelými štartovacími bodmi. Čítajte etikety pozorne a hľadajte certifikácie tretích strán ako EPA Safer Choice, Green Seal alebo EcoLogo, aby ste sa uistili, že produkty spĺňajú skutočné environmentálne štandardy.",
+            "text2": "Vytvárajte vlastné čistiace roztoky pre bežné úlohy. Zmiešajte rovnaké diely vody a bieleho octu pre výborný čistič okien. Skombinujte sódu bikarbónu s niekoľkými kvapkami esenciálneho oleja pre prírodný čistiaci prášok. Tieto jednoduché recepty sú neuveriteľne účinné, stoja zlomok komerčných produktov a úplne eliminujú odpad z obalov.",
+            "text3": "Investujte do opakovane použiteľných čistiacich nástrojov. Handričky z mikrovlákien môžu byť prané stovky krát a čistia efektívnejšie ako jednorazové alternatívy. Švédske umývacie handričky, opakovane použiteľné hlavy mopov a znovu naplniteľné rozprašovače znižujú odpad a dlhodobo šetria peniaze. Tieto malé zmeny sa sčítavajú do významného environmentálneho dopadu."
+          },
+          "conclusion": "Prechod na ekologické čistenie je jeden z najjednoduchších spôsobov, ako znížiť vašu environmentálnu stopu pri vytváraní zdravšieho domova. Nemusíte meniť všetko cez noc—začnite s jednou alebo dvoma výmenami a postupne budujte svoju zelenú čistiacu rutinu. Vaša rodina, peňaženka aj planéta budú mať prospech z tejto pozitívnej zmeny. Každý malý krok smerom k udržateľnému čisteniu robí rozdiel."
+        }
+      }
+    }
+  },
+  "faq": {
+    "subtitle": "FAQ",
+    "title": "Máte otázky?",
+    "description": "Nájdite odpovede na často kladené otázky o našich čistiacich službách.",
+    "items": {
+      "0": {
+        "question": "Ako často by som mal/a plánovať čistiace služby?",
+        "answer": "Odporúčame týždenné alebo dvojtýždenné čistenie pre väčšinu domov a kancelárií. Ponúkame však flexibilné plánovanie vrátane jednorazového hĺbkového čistenia, mesačnej údržby alebo vlastných frekvencií podľa vašich potrieb."
+      },
+      "1": {
+        "question": "Sú vaše čistiace produkty bezpečné pre domáce zvieratá a deti?",
+        "answer": "Absolútne! Používame ekologické, netoxické čistiace produkty, ktoré sú bezpečné pre celú vašu rodinu vrátane domácich zvierat a detí. Všetky naše produkty sú schválené EPA a environmentálne zodpovedné."
+      },
+      "2": {
+        "question": "Musím byť doma počas čistenia?",
+        "answer": "Nie, nemusíte byť prítomní. Mnoho našich klientov poskytne pokyny na prístup a pokračuje vo svojom dni. Náš tím je plne poistený a viazaný pre vašu bezpečnosť a pokoj."
+      },
+      "3": {
+        "question": "Čo ak nie som spokojný/á so službou?",
+        "answer": "Ponúkame 100% záruku spokojnosti. Ak nie ste úplne spokojní s našou službou, kontaktujte nás do 24 hodín a vyčistíme oblasť znova zadarmo alebo poskytneme plnú náhradu."
+      },
+      "4": {
+        "question": "Ako môžem získať cenovú ponuku?",
+        "answer": "Môžete požiadať o bezplatnú cenovú ponuku prostredníctvom nášho kontaktného formulára, zavolať nám priamo alebo použiť náš online rezervačný systém. Posúdime vaše potreby a poskytneme transparentný odhad bez záväzkov."
+      }
+    }
+  },
+  "contact": {
+    "title": "Požiadať o cenovú ponuku",
+    "description": "Získajte bezplatnú, nezáväznú cenovú ponuku za menej ako 60 sekúnd. Náš tím vás bude kontaktovať v najbližšom čase.",
+    "pageTitle": "Spojte sa s nami",
+    "pageDescription": "Máte otázky alebo ste pripravení rezervovať si službu čistenia? Sme tu, aby sme vám pomohli! Vyplňte formulár nižšie alebo použite naše kontaktné informácie na priame spojenie.",
+    "callUs": "Zavolajte nám",
+    "emailUs": "Napíšte nám email",
+    "visitUs": "Navštívte nás",
+    "phone": "+421 123 456 789",
+    "phoneRaw": "+421123456789",
+    "email": "info@cleanify.sk",
+    "address": "Hlavná 123\nBratislava 811 01",
+    "successMessage": "Ďakujeme za vašu správu! Ozveme sa vám do 24 hodín.",
+    "infoCards": {
+      "phone": {
+        "title": "Telefón",
+        "description": "Zavolajte nám počas pracovnej doby"
+      },
+      "email": {
+        "title": "Email",
+        "description": "Pošlite nám správu kedykoľvek"
+      },
+      "address": {
+        "title": "Adresa",
+        "description": "Navštívte našu kanceláriu",
+        "value": "Hlavná 123, Kancelária 100\nBratislava 811 01"
+      }
+    },
+    "formTitle": "Pošlite nám správu",
+    "form": {
+      "name": {
+        "label": "Celé meno",
+        "placeholder": "Ján Novák",
+        "required": "Meno je povinné"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "jan@priklad.sk",
+        "required": "Email je povinný",
+        "invalid": "Neplatná emailová adresa"
+      },
+      "phone": {
+        "label": "Telefón (voliteľné)",
+        "placeholder": "+421 123 456 789"
+      },
+      "service": {
+        "label": "Typ služby",
+        "placeholder": "Vyberte službu",
+        "options": {
+          "home": "Čistenie domácností",
+          "office": "Čistenie kancelárií",
+          "deep": "Hĺbkové čistenie",
+          "move": "Čistenie pri sťahovaní",
+          "other": "Iné"
+        }
+      },
+      "message": {
+        "label": "Správa",
+        "placeholder": "Povedzte nám o vašich potrebách čistenia, preferovanom harmonograme alebo akýchkoľvek otázkach...",
+        "required": "Správa je povinná"
+      },
+      "submit": "Odoslať správu"
+    },
+    "businessHours": {
+      "title": "Pracovná doba",
+      "days": {
+        "weekdays": "Pondelok - Piatok",
+        "saturday": "Sobota",
+        "sunday": "Nedeľa"
+      },
+      "times": {
+        "weekdays": "8:00 - 18:00",
+        "saturday": "9:00 - 16:00",
+        "sunday": "Zatvorené"
+      }
+    },
+    "quickResponse": {
+      "title": "Rýchla odpoveď",
+      "items": {
+        "0": "Odpovedáme na všetky dopyty do 24 hodín",
+        "1": "Bezplatné, nezáväzné cenové ponuky",
+        "2": "K dispozícii služba v ten istý deň",
+        "3": "Flexibilné možnosti plánovania"
+      }
+    },
+    "mapSection": {
+      "title": "Nájdite nás",
+      "description": "Sídlime v Ružinove, Bratislava, Slovensko. Navštívte nás alebo nás kedykoľvek kontaktujte!"
+    },
+    "faqSection": {
+      "title": "Máte ešte otázky?",
+      "description": "Pozrite si naše často kladené otázky alebo nám zavolajte. Radi vám pomôžeme!",
+      "button": "Zobraziť FAQ"
+    }
+  },
+  "footer": {
+    "company": {
+      "description": "Profesionálne čistiace služby pre váš domov a kanceláriu. Poskytujeme dokonalosť s každým čistením."
+    },
+    "quickLinks": {
+      "title": "Rýchle odkazy",
+      "home": "Domov",
+      "about": "O nás",
+      "services": "Služby",
+      "blog": "Blog",
+      "contact": "Kontakt"
+    },
+    "services": {
+      "title": "Naše služby",
+      "homeCleaning": "Čistenie domácností",
+      "officeCleaning": "Čistenie kancelárií",
+      "deepCleaning": "Hĺbkové čistenie",
+      "moveInOut": "Sťahovanie",
+      "windowCleaning": "Čistenie okien"
+    },
+    "contact": {
+      "title": "Kontaktujte nás",
+      "address": "Hlavná 123, Bratislava 811 01",
+      "phone": "+421 123 456 789",
+      "phoneRaw": "+421123456789",
+      "email": "info@cleanify.sk"
+    },
+    "bottom": {
+      "copyright": "Všetky práva vyhradené",
+      "privacy": "Zásady ochrany súkromia",
+      "terms": "Podmienky používania",
+      "cookies": "Zásady súborov cookie"
+    }
+  },
+  "about": {
+    "title": "O Cleanify",
+    "description1": "Cleanify je nová, mladá spoločnosť s moderným prístupom k profesionálnym čistiacim službám. Prinášame čerstvý pohľad, najnovšie ekologické postupy a vášeň pre čistotu, aby sme premenili vaše priestory na perfektné prostredia.",
+    "description2": "Naše poslanie je jednoduché: poskytovať výnimočné čistiace služby s osobným prístupom, ktoré prekračujú očakávania, pričom sa staráme o životné prostredie a našu komunitu.",
+    "values": {
+      "title": "Naše základné hodnoty",
+      "description": "Tieto zásady riadia všetko, čo robíme, a formujú náš záväzok k dokonalosti.",
+      "items": {
+        "excellence": {
+          "title": "Dokonalosť",
+          "description": "Snažíme sa o dokonalosť pri každom čistení, zabezpečujúc najvyššie štandardy kvality."
+        },
+        "sustainability": {
+          "title": "Udržateľnosť",
+          "description": "Ekologické produkty a postupy, ktoré chránia našu planétu a vaše zdravie."
+        },
+        "integrity": {
+          "title": "Integrita",
+          "description": "Čestná, transparentná služba s dôveryhodnými profesionálmi, na ktorých sa môžete spoľahnúť."
+        }
+      }
+    },
+    "whyChoose": {
+      "title": "Prečo si vybrať Cleanify?",
+      "description": "Nie sme len ďalšia čistiaca spoločnosť. Tu je to, čo nás odlišuje:",
+      "items": [
+        "Profesionálne vyškolení a certifikovaní čističi",
+        "Ekologické, netoxické čistiace produkty",
+        "Flexibilné plánovanie pre váš zaneprázdnený život",
+        "Plne poistené a viazané pre vašu ochranu",
+        "100% záruka spokojnosti",
+        "Transparentné ceny bez skrytých poplatkov"
+      ]
+    },
+    "team": {
+      "title": "Spoznajte náš tím",
+      "description": "Oddaní profesionáli za úspechom Cleanify.",
+      "members": [
+        {
+          "name": "Jennifer Martinez",
+          "role": "Zakladateľka a generálna riaditeľka",
+          "bio": "S vášňou pre čistotu a ekológiu Jennifer založila Cleanify, aby priniesla nový, moderný prístup k čistiacim službám s osobným prístupom."
+        },
+        {
+          "name": "David Thompson",
+          "role": "Manažér prevádzky",
+          "bio": "David zabezpečuje, že každá práca spĺňa naše vysoké štandardy a koordinuje náš tím profesionálnych čističov."
+        },
+        {
+          "name": "Lisa Chen",
+          "role": "Vedúca úspešnosti zákazníkov",
+          "bio": "Lisa sa venuje tomu, aby každý klient mal vynikajúcu skúsenosť od prvého kontaktu po dokončenie služby."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Pripravení zažiť Cleanify rozdiel?",
+      "description": "Staňte sa súčasťou našej rastúcej komunity spokojných zákazníkov, ktorí si cenia kvalitu a osobný prístup.",
+      "button": "Požiadať o bezplatnú cenovú ponuku"
+    }
+  },
+  "pricing": {
+    "title": "Vyberte svoj plán",
+    "description": "Flexibilné cenové možnosti, ktoré vyhovujú vášmu rozpočtu a potrebám čistenia.",
+    "basic": "Základný",
+    "standard": "Štandardný",
+    "premium": "Premium",
+    "mostPopular": "Najpopulárnejší",
+    "perVisit": "/návšteva",
+    "plans": {
+      "basic": "Základné čistenie pre váš priestor",
+      "standard": "Kompletné riešenie čistenia",
+      "premium": "Prémiová služba a doplnky"
+    }
+  },
+  "booking": {
+    "steps": {
+      "service": "Služba",
+      "dateTime": "Dátum a čas",
+      "details": "Detaily",
+      "review": "Kontrola",
+      "confirm": "Potvrdenie"
+    },
+    "serviceSelector": {
+      "selectService": "Vyberte si službu",
+      "selectPropertyType": "Vyberte typ nehnuteľnosti",
+      "selectSize": "Vyberte veľkosť nehnuteľnosti",
+      "continue": "Pokračovať",
+      "services": {
+        "homecleaning": {
+          "title": "Čistenie domácnosti",
+          "description": "Pravidelné čistenie pre váš dom alebo byt"
+        },
+        "officecleaning": {
+          "title": "Čistenie kancelárií",
+          "description": "Profesionálne čistenie pre váš pracovný priestor"
+        },
+        "deepcleaning": {
+          "title": "Hĺbkové čistenie",
+          "description": "Intenzívne čistenie pre dôkladné výsledky"
+        },
+        "movecleaning": {
+          "title": "Čistenie pri sťahovaní",
+          "description": "Kompletné čistenie pri sťahovaní"
+        }
+      },
+      "propertyTypes": {
+        "apartment": "Byt",
+        "house": "Dom",
+        "office": "Kancelária",
+        "commercial": "Komerčné"
+      },
+      "sizes": {
+        "home": {
+          "1br": "1 spálňa",
+          "2br": "2 spálne",
+          "3br": "3 spálne",
+          "4br": "4 spálne",
+          "5br": "5+ spální"
+        },
+        "office": {
+          "small": "Malá (< 100 m²)",
+          "medium": "Stredná (100-500 m²)",
+          "large": "Veľká (> 500 m²)"
+        }
+      }
+    },
+    "calendar": {
+      "selectDate": "Vyberte preferovaný dátum",
+      "selectTime": "Vyberte časové pásmo",
+      "selectFrequency": "Ako často potrebujete čistenie?",
+      "timeSlots": {
+        "morning": "Ráno",
+        "afternoon": "Popoludní",
+        "evening": "Večer"
+      },
+      "frequency": {
+        "oneTime": "Jednorazové",
+        "weekly": "Týždenne",
+        "biWeekly": "Každé dva týždne",
+        "monthly": "Mesačne"
+      },
+      "save": "Uložiť",
+      "back": "Späť",
+      "continue": "Pokračovať",
+      "months": {
+        "january": "Január",
+        "february": "Február",
+        "march": "Marec",
+        "april": "Apríl",
+        "may": "Máj",
+        "june": "Jún",
+        "july": "Júl",
+        "august": "August",
+        "september": "September",
+        "october": "Október",
+        "november": "November",
+        "december": "December"
+      },
+      "days": {
+        "sun": "Ned",
+        "mon": "Pon",
+        "tue": "Uto",
+        "wed": "Str",
+        "thu": "Štv",
+        "fri": "Pia",
+        "sat": "Sob"
+      }
+    },
+    "propertyForm": {
+      "title": "Detaily nehnuteľnosti a prístupu",
+      "back": "Späť",
+      "continue": "Pokračovať",
+      "address": {
+        "label": "Adresa nehnuteľnosti",
+        "placeholder": "Ulica 123, Mesto, PSČ",
+        "help": "Kam má náš tím prísť?"
+      },
+      "accessInstructions": {
+        "label": "Inštrukcie prístupu (voliteľné)",
+        "placeholder": "Kód brány, parkovacie inštrukcie, umiestnenie kľúča, atď."
+      },
+      "specialRequests": {
+        "label": "Špeciálne požiadavky alebo poznámky (voliteľné)",
+        "placeholder": "Informácie o domácich zvieratách, oblasti vyžadujúce špeciálnu pozornosť, alergie, atď.",
+        "help": "Dajte nám vedieť o čomkoľvek špeciálnom"
+      },
+      "photos": {
+        "label": "Nahrať fotografie (voliteľné)",
+        "help": "Pomôžte nám lepšie pochopiť váš priestor (max 5 fotografií, 5MB každá)",
+        "uploadButton": "Kliknite pre nahratie fotografií",
+        "uploadHelp": "PNG, JPG do 5MB každá",
+        "addMore": "Pridať viac",
+        "maxReached": "Maximum 5 fotografií dosiahnutých"
+      }
+    },
+    "summary": {
+      "title": "Skontrolujte svoju rezerváciu",
+      "serviceDetails": "Detaily služby",
+      "dateTime": "Dátum a čas",
+      "propertyDetails": "Detaily nehnuteľnosti",
+      "addOnsTitle": "Pridať extra služby (voliteľné)",
+      "priceBreakdown": "Rozdelenie ceny",
+      "edit": "Upraviť",
+      "service": "Služba",
+      "propertySize": "Veľkosť nehnuteľnosti",
+      "propertyType": "Typ nehnuteľnosti",
+      "date": "Dátum",
+      "timeSlot": "Časové pásmo",
+      "frequencyLabel": "Frekvencia",
+      "address": "Adresa",
+      "accessInstructions": "Inštrukcie prístupu",
+      "specialRequests": "Špeciálne požiadavky",
+      "photos": "Fotografie",
+      "basePrice": "Základná cena",
+      "discount": "Zľava za frekvenciu",
+      "addOns": "Doplnky",
+      "total": "Celkom",
+      "recurringNote": "Toto je opakujúca sa služba. Táto suma vám bude účtovaná za každú návštevu.",
+      "back": "Späť",
+      "continue": "Pokračovať k pokladni",
+      "addOns": {
+        "ecoFriendly": "Prémiové ekologické produkty",
+        "insideFridge": "Čistenie vnútra chladničky",
+        "insideOven": "Čistenie vnútra rúry",
+        "windows": "Čistenie okien (vnútorné)"
+      },
+      "frequency": {
+        "oneTime": "Jednorazové",
+        "weekly": "Týždenne",
+        "biWeekly": "Každé dva týždne",
+        "monthly": "Mesačne"
+      },
+      "time": {
+        "morning": "Ráno (8:00 - 12:00)",
+        "afternoon": "Popoludní (12:00 - 16:00)",
+        "evening": "Večer (16:00 - 20:00)"
+      }
+    },
+    "confirmation": {
+      "title": "Potvrďte svoju rezerváciu",
+      "subtitle": "Už sme takmer hotovo! Zadajte nižšie svoje kontaktné údaje.",
+      "contactDetails": "Kontaktné údaje",
+      "bookingSummary": "Zhrnutie rezervácie",
+      "privacyNotice": "Vaše informácie sú v bezpečí a budú použité len na kontaktovanie v súvislosti s vašou rezerváciou. Nikdy nezdieľame vaše údaje s tretími stranami.",
+      "back": "Späť",
+      "submitBooking": "Potvrdiť a rezervovať",
+      "form": {
+        "name": {
+          "label": "Celé meno",
+          "placeholder": "Ján Novák"
+        },
+        "email": {
+          "label": "Emailová adresa",
+          "placeholder": "jan@priklad.sk"
+        },
+        "phone": {
+          "label": "Telefónne číslo",
+          "placeholder": "+421 912 345 678"
+        }
+      },
+      "summary": {
+        "service": "Služba",
+        "date": "Dátum",
+        "total": "Celková cena"
+      },
+      "errors": {
+        "nameRequired": "Prosím, zadajte celé meno",
+        "emailInvalid": "Prosím, zadajte platnú emailovú adresu",
+        "phoneInvalid": "Prosím, zadajte platné telefónne číslo"
+      },
+      "success": {
+        "title": "Rezervácia potvrdená!",
+        "subtitle": "Ďakujeme, že ste si vybrali Cleanify. Prijali sme vašu rezerváciu.",
+        "reference": "Rezervačné číslo",
+        "whatNext": "Čo bude ďalej?",
+        "step1": {
+          "title": "Potvrdzovací email",
+          "description": "Do niekoľkých minút dostanete potvrdzovací email so všetkými detailmi rezervácie."
+        },
+        "step2": {
+          "title": "Pridelenie tímu",
+          "description": "Pridelíme profesionálny čistiaci tím a skontaktujeme vás 24 hodín pred termínom."
+        },
+        "step3": {
+          "title": "Deň čistenia",
+          "description": "Náš tím príde v naplánovanom čase a dokončí čistiacu službu."
+        },
+        "questions": "Máte otázky alebo potrebujete urobiť zmeny? Kontaktujte nás kedykoľvek.",
+        "bookAnother": "Rezervovať ďalšiu službu",
+        "backHome": "Späť na domovskú stránku"
+      }
+    }
+  }
+}

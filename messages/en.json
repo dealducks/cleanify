@@ -1,0 +1,790 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "getQuote": "Get A Quote",
+    "homeCleaning": "Home Cleaning",
+    "officeCleaning": "Office Cleaning"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "getStarted": "Get Started Today",
+    "contactUs": "Contact Us",
+    "viewAll": "View All",
+    "bookNow": "Book Now",
+    "submit": "Submit",
+    "loading": "Loading..."
+  },
+  "hero": {
+    "badge": "New, Young & Energetic Company",
+    "title": "Modern Cleaning",
+    "titleHighlight": "For Your Space",
+    "subtitle": "Transform your home or office with our professional cleaning services. Eco-friendly, reliable, and thorough cleaning solutions tailored to your needs.",
+    "cta": "Get Free Quote",
+    "watchVideo": "Watch Video",
+    "stats": {
+      "clients": {
+        "value": "100%",
+        "label": "Personal Approach"
+      },
+      "experience": {
+        "value": "24/7",
+        "label": "Customer Support"
+      },
+      "satisfaction": {
+        "value": "ECO",
+        "label": "Eco-Friendly Products"
+      }
+    },
+    "ecoFriendly": {
+      "title": "100% Eco-Friendly",
+      "subtitle": "Safe Products"
+    }
+  },
+  "statistics": {
+    "residential": {
+      "value": "100%",
+      "label": "Eco-Friendly Cleaning Products"
+    },
+    "commercial": {
+      "value": "Professional",
+      "label": "Professional cleaners"
+    },
+    "satisfaction": {
+      "value": "Flexible",
+      "label": "Scheduling according to your needs"
+    }
+  },
+  "services": {
+    "subtitle": "Our Services",
+    "title": "What We Offer",
+    "description": "Professional cleaning solutions designed to meet your specific needs, whether residential or commercial.",
+    "startingAt": "Starting at",
+    "learnMore": "Learn More",
+    "viewAll": "View All Services",
+    "home": {
+      "title": "Home Cleaning",
+      "shortDescription": "Keep your home spotless with our professional cleaning services",
+      "description": "Professional residential cleaning services tailored to your home's unique needs. Our expert team ensures every corner of your house sparkles with cleanliness.",
+      "price": "50",
+      "features": {
+        "0": "Deep cleaning of all rooms",
+        "1": "Kitchen and bathroom sanitization",
+        "2": "Dusting and vacuuming"
+      }
+    },
+    "office": {
+      "title": "Office Cleaning",
+      "shortDescription": "Professional office cleaning for a productive work environment",
+      "description": "Maintain a professional and hygienic workspace with our comprehensive office cleaning solutions. We work around your schedule to minimize disruption.",
+      "price": "99",
+      "features": {
+        "0": "Workspace sanitization",
+        "1": "Restroom deep cleaning",
+        "2": "Floor care and maintenance"
+      }
+    },
+    "cta": {
+      "title": "Need a Custom Solution?",
+      "description": "Every space is unique. Contact us for a personalized quote tailored to your specific needs.",
+      "button": "Request Custom Quote"
+    }
+  },
+  "servicePages": {
+    "common": {
+      "rating": "5.0",
+      "perVisit": "/visit",
+      "popular": "Popular",
+      "recommended": "Recommended",
+      "whatsIncluded": "What's Included",
+      "selectPlan": "Select Plan",
+      "contactSales": "Contact Sales"
+    },
+    "home": {
+      "reviews": "1,000+ reviews",
+      "bookNow": "Book Now",
+      "pricingTitle": "Transparent Pricing",
+      "pricingDescription": "Choose the plan that best fits your needs. All plans include our satisfaction guarantee.",
+      "pricingFeatures": {
+        "basic": {
+          "0": "All standard cleaning"
+        },
+        "standard": {
+          "0": "All standard cleaning",
+          "1": "Deep cleaning included"
+        },
+        "premium": {
+          "0": "All standard cleaning",
+          "1": "Deep cleaning included",
+          "2": "Priority scheduling",
+          "3": "Eco-premium products"
+        }
+      },
+      "cta": {
+        "title": "Ready for a Spotless Home?",
+        "description": "Book your home cleaning service today and experience the Cleanify difference.",
+        "button": "Get Free Quote"
+      }
+    },
+    "office": {
+      "reviews": "800+ reviews",
+      "getQuote": "Get A Quote",
+      "featuresTitle": "Comprehensive Office Cleaning",
+      "pricingTitle": "Flexible Business Pricing",
+      "pricingDescription": "Scalable solutions for businesses of all sizes. Volume discounts available.",
+      "pricingFeatures": {
+        "basic": {
+          "0": "Professional team"
+        },
+        "standard": {
+          "0": "Professional team",
+          "1": "Flexible scheduling"
+        },
+        "premium": {
+          "0": "Professional team",
+          "1": "Flexible scheduling",
+          "2": "After-hours service",
+          "3": "Dedicated team"
+        }
+      },
+      "benefitsTitle": "Why Businesses Choose Cleanify",
+      "benefits": {
+        "0": "Minimal disruption to your operations",
+        "1": "Flexible scheduling including after-hours",
+        "2": "Consistent quality with the same team",
+        "3": "Eco-friendly products safe for employees",
+        "4": "Fully insured and background-checked staff",
+        "5": "Customizable service plans"
+      },
+      "cta": {
+        "title": "Boost Productivity with a Clean Workspace",
+        "description": "Request a free consultation and let us create a custom cleaning plan for your business.",
+        "button": "Schedule Consultation"
+      }
+    }
+  },
+  "features": {
+    "subtitle": "Why Choose Us",
+    "title": "What Makes Us Different",
+    "description": "We combine professional expertise with eco-friendly practices to deliver exceptional cleaning services.",
+    "items": {
+      "team": {
+        "title": "Professional Team",
+        "description": "Trained cleaning professionals with modern approach and high standards"
+      },
+      "eco": {
+        "title": "Eco-Friendly Products",
+        "description": "Safe, non-toxic cleaning solutions that protect your family and environment"
+      },
+      "schedule": {
+        "title": "Flexible Scheduling",
+        "description": "Book services at your convenience with easy online scheduling"
+      },
+      "guarantee": {
+        "title": "100% Satisfaction Guarantee",
+        "description": "Not satisfied? We'll re-clean for free or provide a full refund"
+      },
+      "insured": {
+        "title": "Insured & Bonded",
+        "description": "Fully insured for your peace of mind and property protection"
+      },
+      "pricing": {
+        "title": "Affordable Pricing",
+        "description": "Competitive rates with transparent pricing and no hidden fees"
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "Testimonials",
+    "title": "What Our Clients Say",
+    "description": "Don't just take our word for it. Here's what our satisfied customers have to say.",
+    "items": [
+      {
+        "name": "Sarah Johnson",
+        "role": "Homeowner",
+        "content": "Cleanify has transformed my home! Their attention to detail is exceptional, and the team is always professional and courteous. Highly recommend!"
+      },
+      {
+        "name": "Michael Chen",
+        "role": "Office Manager",
+        "company": "Tech Solutions Inc.",
+        "content": "Our office has never looked better. They work efficiently and don't disrupt our workflow. Great service!"
+      },
+      {
+        "name": "Emily Rodriguez",
+        "role": "Small Business Owner",
+        "content": "Professional, reliable, and thorough. The eco-friendly products they use are a huge plus for our environmentally conscious business."
+      }
+    ]
+  },
+  "blog": {
+    "subtitle": "Latest Posts",
+    "title": "Cleaning Tips & News",
+    "description": "Stay informed with our expert advice, cleaning tips, and industry insights.",
+    "minRead": "min read",
+    "min": "min",
+    "readMore": "Read More",
+    "viewAll": "View All Posts",
+    "listingPage": {
+      "title": "Cleaning Tips & Insights",
+      "description": "Expert advice, industry insights, and helpful tips to keep your spaces spotless.",
+      "categories": {
+        "all": "All",
+        "tipsTricks": "Tips & Tricks",
+        "officeCleaning": "Office Cleaning",
+        "sustainability": "Sustainability"
+      },
+      "noResults": "No posts found in this category.",
+      "newsletter": {
+        "title": "Stay Updated",
+        "description": "Get the latest cleaning tips, industry news, and special offers delivered to your inbox.",
+        "placeholder": "Enter your email",
+        "button": "Subscribe"
+      }
+    },
+    "postPage": {
+      "backToBlog": "Back to Blog",
+      "minRead": "min read",
+      "shareArticle": "Share this article:",
+      "sections": {
+        "keyTakeaways": "Key Takeaways",
+        "bestPractices": "Best Practices",
+        "conclusion": "Conclusion"
+      },
+      "cta": {
+        "title": "Need Professional Cleaning?",
+        "description": "Let our experts handle the cleaning while you focus on what matters.",
+        "button": "Get Free Quote"
+      },
+      "relatedArticles": "Related Articles"
+    },
+    "items": {
+      "0": {
+        "title": "Guide To Cleaning Your Home Like A Professional",
+        "excerpt": "Learn the secrets professional cleaners use to achieve spotless results every time.",
+        "category": "Tips & Tricks",
+        "content": {
+          "intro": "Keeping your home clean doesn't have to be overwhelming. Professional cleaners follow systematic approaches and use proven techniques that make the job easier and more effective. Whether you're preparing for guests or simply maintaining your living space, these professional strategies will help you achieve exceptional results.",
+          "keyTakeaways": {
+            "text": "Professional cleaning isn't just about scrubbing harder—it's about working smarter. Here are the fundamental principles that separate professional results from amateur attempts:",
+            "list": [
+              "Always clean from top to bottom to avoid re-cleaning lower surfaces",
+              "Use the right cleaning products for each specific surface and material",
+              "Establish a consistent routine that prevents dirt and grime buildup",
+              "Focus on high-traffic areas and frequently touched surfaces first",
+              "Invest in quality tools like microfiber cloths and HEPA-filter vacuums"
+            ]
+          },
+          "bestPractices": {
+            "text1": "Start your cleaning session with a clear plan. Walk through each room and identify the areas that need the most attention. Gather all your supplies in a caddy or bucket to avoid wasting time running back and forth. This simple preparation step can cut your cleaning time in half.",
+            "text2": "Professionals always use the two-bucket method for mopping: one with cleaning solution and one with clean water for rinsing. This prevents spreading dirty water across your floors. For surfaces, spray cleaners onto the cloth rather than directly on the surface to avoid oversaturation and streaks.",
+            "text3": "Don't forget the often-overlooked areas: ceiling fans, baseboards, light switches, door handles, and the tops of cabinets. These spots accumulate dust and germs but are frequently ignored in routine cleaning. Set a schedule to address these areas monthly."
+          },
+          "conclusion": "By incorporating these professional techniques into your cleaning routine, you'll not only achieve better results but also save time and energy. Remember, consistency is key—a little bit of daily maintenance prevents the need for exhausting deep cleaning sessions. Start implementing these strategies today and transform your home into a spotlessly clean sanctuary."
+        }
+      },
+      "1": {
+        "title": "Best Tips For Cleaning Your Office Space",
+        "excerpt": "Create a more productive work environment with these essential office cleaning tips.",
+        "category": "Office Cleaning",
+        "content": {
+          "intro": "A clean office isn't just about appearances—it directly impacts productivity, employee health, and professional image. Studies show that workers in clean environments are more focused and take fewer sick days. Whether you manage a small startup or a large corporate office, these proven cleaning strategies will help create a healthier, more productive workspace.",
+          "keyTakeaways": {
+            "text": "Office cleaning requires a different approach than residential cleaning due to shared spaces, high traffic, and professional equipment. Here's what you need to know:",
+            "list": [
+              "Disinfect high-touch surfaces like doorknobs, phones, and keyboards daily",
+              "Establish clear desk policies to make cleaning more efficient",
+              "Use HEPA filters in vacuums to improve air quality and reduce allergens",
+              "Schedule deep cleaning during off-hours to avoid disrupting workflow",
+              "Create designated cleaning zones and rotate through them systematically"
+            ]
+          },
+          "bestPractices": {
+            "text1": "Implement a daily desk cleaning routine. Encourage employees to wipe down their workstations at the end of each day using provided disinfectant wipes. This simple habit dramatically reduces the spread of germs and creates a fresh start each morning. Provide easily accessible cleaning supplies in each department.",
+            "text2": "Break rooms and kitchens require special attention as they're breeding grounds for bacteria. Clean coffee makers and microwaves weekly, disinfect refrigerators monthly, and establish clear guidelines for food storage and disposal. Empty trash bins daily and use liners to prevent odors and leaks.",
+            "text3": "Don't neglect your office's air quality. Replace HVAC filters regularly, open windows when possible, and consider adding air-purifying plants. Clean air vents quarterly and schedule professional duct cleaning annually. Good air quality reduces illness and improves concentration."
+          },
+          "conclusion": "Maintaining a clean office is an investment in your team's health and productivity. By establishing consistent cleaning protocols and involving employees in maintaining cleanliness, you create a professional environment where everyone can thrive. Consider partnering with professional cleaning services for deep cleaning tasks while maintaining daily tidiness through these practices."
+        }
+      },
+      "2": {
+        "title": "Eco-Friendly Cleaning: Better For You And The Planet",
+        "excerpt": "Discover how green cleaning products benefit your health and the environment.",
+        "category": "Sustainability",
+        "content": {
+          "intro": "Traditional cleaning products often contain harsh chemicals that can harm both your health and the environment. From respiratory irritants to water pollutants, these conventional cleaners come with hidden costs. The good news? Eco-friendly cleaning solutions are just as effective while being safer for your family, pets, and the planet. Let's explore how you can make the switch to green cleaning.",
+          "keyTakeaways": {
+            "text": "Eco-friendly cleaning isn't about compromising on cleanliness—it's about choosing smarter, safer solutions. Understanding these principles will guide your green cleaning journey:",
+            "list": [
+              "Look for products with plant-based ingredients and biodegradable formulas",
+              "Avoid cleaners containing phosphates, chlorine, and artificial fragrances",
+              "Use reusable microfiber cloths instead of disposable paper towels",
+              "Make your own cleaners with simple ingredients like vinegar and baking soda",
+              "Choose concentrated products to reduce packaging waste and transportation emissions"
+            ]
+          },
+          "bestPractices": {
+            "text1": "Start by replacing your most-used cleaners with eco-friendly alternatives. All-purpose cleaners, dish soap, and laundry detergent are great starting points. Read labels carefully and look for third-party certifications like EPA Safer Choice, Green Seal, or EcoLogo to ensure products meet genuine environmental standards.",
+            "text2": "Create DIY cleaning solutions for common tasks. Mix equal parts water and white vinegar for an excellent window cleaner. Combine baking soda with a few drops of essential oil for a natural scrubbing powder. These simple recipes are incredibly effective, cost a fraction of commercial products, and eliminate packaging waste entirely.",
+            "text3": "Invest in reusable cleaning tools. Microfiber cloths can be washed hundreds of times and clean more effectively than disposable alternatives. Swedish dishcloths, reusable mop heads, and refillable spray bottles reduce waste while saving money long-term. These small changes add up to significant environmental impact."
+          },
+          "conclusion": "Transitioning to eco-friendly cleaning is one of the easiest ways to reduce your environmental footprint while creating a healthier home. You don't need to change everything overnight—start with one or two swaps and gradually build your green cleaning routine. Your family, your wallet, and the planet will all benefit from this positive change. Every small step toward sustainable cleaning makes a difference."
+        }
+      }
+    }
+  },
+  "faq": {
+    "subtitle": "FAQ",
+    "title": "Have Questions?",
+    "description": "Find answers to commonly asked questions about our cleaning services.",
+    "items": {
+      "0": {
+        "question": "How often should I schedule cleaning services?",
+        "answer": "We recommend weekly or bi-weekly cleaning for most homes and offices. However, we offer flexible scheduling including one-time deep cleans, monthly maintenance, or custom frequencies based on your needs."
+      },
+      "1": {
+        "question": "Are your cleaning products safe for pets and children?",
+        "answer": "Absolutely! We use eco-friendly, non-toxic cleaning products that are safe for your entire family, including pets and children. All our products are EPA-approved and environmentally responsible."
+      },
+      "2": {
+        "question": "Do I need to be home during the cleaning?",
+        "answer": "No, you don't need to be present. Many of our clients provide access instructions and go about their day. Our team is fully insured and bonded for your security and peace of mind."
+      },
+      "3": {
+        "question": "What if I'm not satisfied with the service?",
+        "answer": "We offer a 100% satisfaction guarantee. If you're not completely happy with our service, contact us within 24 hours and we'll re-clean the area for free or provide a full refund."
+      },
+      "4": {
+        "question": "How do I get a quote?",
+        "answer": "You can request a free quote through our contact form, call us directly, or use our online booking system. We'll assess your needs and provide a transparent, no-obligation estimate."
+      }
+    }
+  },
+  "contact": {
+    "title": "Request A Quote",
+    "description": "Get a free, no-obligation quote in less than 60 seconds. Our team will contact you shortly.",
+    "pageTitle": "Get In Touch",
+    "pageDescription": "Have questions or ready to book a cleaning service? We're here to help! Fill out the form below or use our contact information to reach us directly.",
+    "callUs": "Call Us",
+    "emailUs": "Email Us",
+    "visitUs": "Visit Us",
+    "phone": "(123) 456-7890",
+    "phoneRaw": "+11234567890",
+    "email": "info@cleanify.com",
+    "address": "123 Clean Street\nNew York, NY 10001",
+    "successMessage": "Thank you for your message! We will get back to you within 24 hours.",
+    "infoCards": {
+      "phone": {
+        "title": "Phone",
+        "description": "Call us during business hours"
+      },
+      "email": {
+        "title": "Email",
+        "description": "Send us a message anytime"
+      },
+      "address": {
+        "title": "Address",
+        "description": "Visit our office",
+        "value": "123 Clean Street, Suite 100\nNew York, NY 10001"
+      }
+    },
+    "formTitle": "Send Us A Message",
+    "form": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "John Doe",
+        "required": "Name is required"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "john@example.com",
+        "required": "Email is required",
+        "invalid": "Invalid email address"
+      },
+      "phone": {
+        "label": "Phone (Optional)",
+        "placeholder": "(123) 456-7890"
+      },
+      "service": {
+        "label": "Service Type",
+        "placeholder": "Select a service",
+        "options": {
+          "home": "Home Cleaning",
+          "office": "Office Cleaning",
+          "deep": "Deep Cleaning",
+          "move": "Move In/Out Cleaning",
+          "other": "Other"
+        }
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Tell us about your cleaning needs, preferred schedule, or any questions you have...",
+        "required": "Message is required"
+      },
+      "submit": "Send Message"
+    },
+    "businessHours": {
+      "title": "Business Hours",
+      "days": {
+        "weekdays": "Monday - Friday",
+        "saturday": "Saturday",
+        "sunday": "Sunday"
+      },
+      "times": {
+        "weekdays": "8:00 AM - 6:00 PM",
+        "saturday": "9:00 AM - 4:00 PM",
+        "sunday": "Closed"
+      }
+    },
+    "quickResponse": {
+      "title": "Quick Response",
+      "items": {
+        "0": "We respond to all inquiries within 24 hours",
+        "1": "Free, no-obligation quotes",
+        "2": "Same-day service available",
+        "3": "Flexible scheduling options"
+      }
+    },
+    "mapSection": {
+      "title": "Find Us",
+      "description": "We're located in Ružinov, Bratislava, Slovakia. Visit us or reach out anytime!"
+    },
+    "faqSection": {
+      "title": "Still Have Questions?",
+      "description": "Check out our frequently asked questions or give us a call. We're happy to help!",
+      "button": "View FAQ"
+    }
+  },
+  "footer": {
+    "company": {
+      "description": "Professional cleaning services for your home and office. We deliver excellence with every clean."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "services": {
+      "title": "Our Services",
+      "homeCleaning": "Home Cleaning",
+      "officeCleaning": "Office Cleaning",
+      "deepCleaning": "Deep Cleaning",
+      "moveInOut": "Move In/Out",
+      "windowCleaning": "Window Cleaning"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "123 Clean Street, New York, NY 10001",
+      "phone": "(123) 456-7890",
+      "phoneRaw": "+11234567890",
+      "email": "info@cleanify.com"
+    },
+    "bottom": {
+      "copyright": "All rights reserved",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    }
+  },
+  "about": {
+    "title": "About Cleanify",
+    "description1": "Cleanify is a new, young company with a modern approach to professional cleaning services. We bring a fresh perspective, the latest eco-friendly practices, and a passion for cleanliness to transform your spaces into pristine environments.",
+    "description2": "Our mission is simple: deliver exceptional cleaning services with a personal touch that exceed expectations while caring for the environment and our community.",
+    "values": {
+      "title": "Our Core Values",
+      "description": "These principles guide everything we do and shape our commitment to excellence.",
+      "items": {
+        "excellence": {
+          "title": "Excellence",
+          "description": "We strive for perfection in every clean, ensuring the highest quality standards."
+        },
+        "sustainability": {
+          "title": "Sustainability",
+          "description": "Eco-friendly products and practices that protect our planet and your health."
+        },
+        "integrity": {
+          "title": "Integrity",
+          "description": "Honest, transparent service with trustworthy professionals you can rely on."
+        }
+      }
+    },
+    "whyChoose": {
+      "title": "Why Choose Cleanify?",
+      "description": "We're not just another cleaning company. Here's what sets us apart:",
+      "items": [
+        "Professionally trained and certified cleaners",
+        "Eco-friendly, non-toxic cleaning products",
+        "Flexible scheduling to fit your busy life",
+        "Fully insured and bonded for your protection",
+        "100% satisfaction guarantee",
+        "Transparent pricing with no hidden fees"
+      ]
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "description": "The dedicated professionals behind Cleanify's success.",
+      "members": [
+        {
+          "name": "Jennifer Martinez",
+          "role": "Founder & CEO",
+          "bio": "With a passion for cleanliness and ecology, Jennifer founded Cleanify to bring a new, modern approach to cleaning services with a personal touch."
+        },
+        {
+          "name": "David Thompson",
+          "role": "Operations Manager",
+          "bio": "David ensures every job meets our high standards and coordinates our team of professional cleaners."
+        },
+        {
+          "name": "Lisa Chen",
+          "role": "Customer Success Lead",
+          "bio": "Lisa is dedicated to ensuring every client has an outstanding experience from first contact to service completion."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Experience the Cleanify Difference?",
+      "description": "Become part of our growing community of satisfied customers who value quality and personal approach.",
+      "button": "Request A Free Quote"
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "description": "Flexible pricing options to fit your budget and cleaning needs.",
+    "basic": "Basic",
+    "standard": "Standard",
+    "premium": "Premium",
+    "mostPopular": "Most Popular",
+    "perVisit": "/visit",
+    "plans": {
+      "basic": "Essential cleaning for your space",
+      "standard": "Complete cleaning solution",
+      "premium": "Premium service & extras"
+    }
+  },
+  "booking": {
+    "steps": {
+      "service": "Service",
+      "dateTime": "Date & Time",
+      "details": "Details",
+      "review": "Review",
+      "confirm": "Confirm"
+    },
+    "serviceSelector": {
+      "selectService": "Select Your Service",
+      "selectPropertyType": "Select Property Type",
+      "selectSize": "Select Property Size",
+      "continue": "Continue",
+      "services": {
+        "homecleaning": {
+          "title": "Home Cleaning",
+          "description": "Regular cleaning for your home or apartment"
+        },
+        "officecleaning": {
+          "title": "Office Cleaning",
+          "description": "Professional cleaning for your workspace"
+        },
+        "deepcleaning": {
+          "title": "Deep Cleaning",
+          "description": "Intensive cleaning for thorough results"
+        },
+        "movecleaning": {
+          "title": "Move In/Out Cleaning",
+          "description": "Complete cleaning for moving situations"
+        }
+      },
+      "propertyTypes": {
+        "apartment": "Apartment",
+        "house": "House",
+        "office": "Office",
+        "commercial": "Commercial"
+      },
+      "sizes": {
+        "home": {
+          "1br": "1 Bedroom",
+          "2br": "2 Bedrooms",
+          "3br": "3 Bedrooms",
+          "4br": "4 Bedrooms",
+          "5br": "5+ Bedrooms"
+        },
+        "office": {
+          "small": "Small (< 1,000 sq ft)",
+          "medium": "Medium (1,000-5,000 sq ft)",
+          "large": "Large (> 5,000 sq ft)"
+        }
+      }
+    },
+    "calendar": {
+      "selectDate": "Select Your Preferred Date",
+      "selectTime": "Select Time Slot",
+      "selectFrequency": "How Often Do You Need Cleaning?",
+      "timeSlots": {
+        "morning": "Morning",
+        "afternoon": "Afternoon",
+        "evening": "Evening"
+      },
+      "frequency": {
+        "oneTime": "One-Time",
+        "weekly": "Weekly",
+        "biWeekly": "Bi-Weekly",
+        "monthly": "Monthly"
+      },
+      "save": "Save",
+      "back": "Back",
+      "continue": "Continue",
+      "months": {
+        "january": "January",
+        "february": "February",
+        "march": "March",
+        "april": "April",
+        "may": "May",
+        "june": "June",
+        "july": "July",
+        "august": "August",
+        "september": "September",
+        "october": "October",
+        "november": "November",
+        "december": "December"
+      },
+      "days": {
+        "sun": "Sun",
+        "mon": "Mon",
+        "tue": "Tue",
+        "wed": "Wed",
+        "thu": "Thu",
+        "fri": "Fri",
+        "sat": "Sat"
+      }
+    },
+    "propertyForm": {
+      "title": "Property & Access Details",
+      "back": "Back",
+      "continue": "Continue",
+      "address": {
+        "label": "Property Address",
+        "placeholder": "123 Main Street, City, State, ZIP",
+        "help": "Where should our team arrive?"
+      },
+      "accessInstructions": {
+        "label": "Access Instructions (Optional)",
+        "placeholder": "Gate code, parking instructions, key location, etc."
+      },
+      "specialRequests": {
+        "label": "Special Requests or Notes (Optional)",
+        "placeholder": "Pet information, areas requiring special attention, allergies, etc.",
+        "help": "Let us know anything special we should be aware of"
+      },
+      "photos": {
+        "label": "Upload Photos (Optional)",
+        "help": "Help us understand your space better (max 5 photos, 5MB each)",
+        "uploadButton": "Click to upload photos",
+        "uploadHelp": "PNG, JPG up to 5MB each",
+        "addMore": "Add more",
+        "maxReached": "Maximum 5 photos reached"
+      }
+    },
+    "summary": {
+      "title": "Review Your Booking",
+      "serviceDetails": "Service Details",
+      "dateTime": "Date & Time",
+      "propertyDetails": "Property Details",
+      "addOnsTitle": "Add Extra Services (Optional)",
+      "priceBreakdown": "Price Breakdown",
+      "edit": "Edit",
+      "service": "Service",
+      "propertySize": "Property Size",
+      "propertyType": "Property Type",
+      "date": "Date",
+      "timeSlot": "Time Slot",
+      "frequencyLabel": "Frequency",
+      "address": "Address",
+      "accessInstructions": "Access Instructions",
+      "specialRequests": "Special Requests",
+      "photos": "Photos",
+      "basePrice": "Base Price",
+      "discount": "Frequency Discount",
+      "addOns": "Add-ons",
+      "total": "Total",
+      "recurringNote": "This is a recurring service. You'll be charged this amount per visit.",
+      "back": "Back",
+      "continue": "Continue to Checkout",
+      "addOns": {
+        "ecoFriendly": "Premium Eco-Friendly Products",
+        "insideFridge": "Inside Refrigerator Cleaning",
+        "insideOven": "Inside Oven Cleaning",
+        "windows": "Window Cleaning (Interior)"
+      },
+      "frequency": {
+        "oneTime": "One-Time",
+        "weekly": "Weekly",
+        "biWeekly": "Bi-Weekly",
+        "monthly": "Monthly"
+      },
+      "time": {
+        "morning": "Morning (8:00 AM - 12:00 PM)",
+        "afternoon": "Afternoon (12:00 PM - 4:00 PM)",
+        "evening": "Evening (4:00 PM - 8:00 PM)"
+      }
+    },
+    "confirmation": {
+      "title": "Confirm Your Booking",
+      "subtitle": "We're almost done! Just enter your contact information below.",
+      "contactDetails": "Contact Details",
+      "bookingSummary": "Booking Summary",
+      "privacyNotice": "Your information is secure and will only be used to contact you about your booking. We never share your data with third parties.",
+      "back": "Back",
+      "submitBooking": "Confirm & Book",
+      "form": {
+        "name": {
+          "label": "Full Name",
+          "placeholder": "John Doe"
+        },
+        "email": {
+          "label": "Email Address",
+          "placeholder": "john@example.com"
+        },
+        "phone": {
+          "label": "Phone Number",
+          "placeholder": "(123) 456-7890"
+        }
+      },
+      "summary": {
+        "service": "Service",
+        "date": "Date",
+        "total": "Total Price"
+      },
+      "errors": {
+        "nameRequired": "Please enter your full name",
+        "emailInvalid": "Please enter a valid email address",
+        "phoneInvalid": "Please enter a valid phone number"
+      },
+      "success": {
+        "title": "Booking Confirmed!",
+        "subtitle": "Thank you for choosing Cleanify. We've received your booking.",
+        "reference": "Booking Reference",
+        "whatNext": "What Happens Next?",
+        "step1": {
+          "title": "Confirmation Email",
+          "description": "You'll receive a confirmation email with all booking details within a few minutes."
+        },
+        "step2": {
+          "title": "Team Assignment",
+          "description": "We'll assign a professional cleaning team and contact you 24 hours before your appointment."
+        },
+        "step3": {
+          "title": "Cleaning Day",
+          "description": "Our team will arrive at your scheduled time and complete the cleaning service."
+        },
+        "questions": "Have questions or need to make changes? Contact us anytime.",
+        "bookAnother": "Book Another Service",
+        "backHome": "Back to Homepage"
+      }
+    }
+  }
+}
