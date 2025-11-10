@@ -36,7 +36,7 @@ export default function BlogPostPage({ params: { slug, locale } }: BlogPostPageP
     .slice(0, 3);
 
   // Get blog content from translations
-  const blogContent = tBlog.raw(`${post.id - 1}.content`);
+  const blogContent = tBlog.raw(`${Number(post.id) - 1}.content`);
 
   return (
     <>
@@ -109,7 +109,7 @@ export default function BlogPostPage({ params: { slug, locale } }: BlogPostPageP
             {/* Article Content */}
             <article className="prose prose-lg max-w-none mb-12">
               <p className="text-xl text-gray-600 mb-6">
-                {tBlog(`${post.id - 1}.excerpt`)}
+                {tBlog(`${Number(post.id) - 1}.excerpt`)}
               </p>
 
               {/* Real blog content from translations */}
