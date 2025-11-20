@@ -283,7 +283,7 @@ export default function BookingSummary() {
                 )}
                 {addOnsTotal > 0 && (
                   <div className="flex justify-between">
-                    <dt className="text-gray-600">{t('addOns')}:</dt>
+                    <dt className="text-gray-600">{t('addOnsLabel')}:</dt>
                     <dd className="font-medium text-gray-900">+€{addOnsTotal}</dd>
                   </div>
                 )}

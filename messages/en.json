@@ -709,7 +709,7 @@
       "photos": "Photos",
       "basePrice": "Base Price",
       "discount": "Frequency Discount",
-      "addOns": "Add-ons",
+      "addOnsLabel": "Add-ons",
       "total": "Total",
       "recurringNote": "This is a recurring service. You'll be charged this amount per visit.",
       "back": "Back",

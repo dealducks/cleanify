@@ -151,66 +151,6 @@ export default function AboutPage({ params: { locale } }: AboutPageProps) {
         </Container>
       </section>
 
-      {/* Team Section */}
-      <section className="py-20 bg-white">
-        <Container>
-          <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">{t('team.title')}</h2>
-            <p className="text-gray-600 max-w-2xl mx-auto">
-              {t('team.description')}
-            </p>
-          </div>
-
-          <div className="grid md:grid-cols-3 gap-8">
-            {t.raw('team.members').map((member: any, index: number) => (
-              <motion.div
-                key={index}
-                initial={{ opacity: 0, y: 20 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
-                transition={{ delay: index * 0.1 }}
-              >
-                <Card hover className="overflow-hidden">
-                  <div className="relative h-80">
-                    <Image
-                      src={`https://i.pravatar.cc/400?img=${index === 0 ? '10' : index === 1 ? '15' : '25'}`}
-                      alt={member.name}
-                      fill
-                      className="object-cover"
-                    />
-                  </div>
-                  <div className="p-6">
-                    <h3 className="text-xl font-bold text-gray-900 mb-1">
-                      {member.name}
-                    </h3>
-                    <p className="text-primary-600 font-medium mb-3">
-                      {member.role}
-                    </p>
-                    <p className="text-gray-600 mb-4 text-sm">
-                      {member.bio}
-                    </p>
-                    <div className="flex gap-2">
-                      <a
-                        href="#"
-                        className="w-9 h-9 bg-gray-100 rounded-lg flex items-center justify-center hover:bg-primary-600 hover:text-white transition-colors"
-                      >
-                        <FaLinkedinIn />
-                      </a>
-                      <a
-                        href="#"
-                        className="w-9 h-9 bg-gray-100 rounded-lg flex items-center justify-center hover:bg-primary-600 hover:text-white transition-colors"
-                      >
-                        <FaTwitter />
-                      </a>
-                    </div>
-                  </div>
-                </Card>
-              </motion.div>
-            ))}
-          </div>
-        </Container>
-      </section>
-
       {/* CTA Section */}
       <section className="py-20 bg-primary-600">
         <Container>

@@ -709,7 +709,7 @@
       "photos": "Fotografie",
       "basePrice": "Základná cena",
       "discount": "Zľava za frekvenciu",
-      "addOns": "Doplnky",
+      "addOnsLabel": "Doplnky",
       "total": "Celkom",
       "recurringNote": "Toto je opakujúca sa služba. Táto suma vám bude účtovaná za každú návštevu.",
       "back": "Späť",
